@@ -1,0 +1,36 @@
+[{
+    "type": "sandbox",
+    "title": "SampleTitle",
+    "description": "A fitting description, worthy of a file's attention.",
+    "swiftversion": "swift-3.0-RELEASE-ubuntu14.04",
+    "giturl": "https://github.com/apple/example-package-fisheryates.git",
+    "gittag": "2.0.2"
+}, {
+    "type": "sandbox",
+    "title": "SampleTitle",
+    "description": "A fitting description, worthy of a file's attention.",
+    "swiftversion": "swift-3.0-RELEASE-ubuntu14.04",
+    "giturl": "https://github.com/apple/example-package-fisheryates.git",
+    "gittag": "1.0.0"
+}, {
+    "type": "sandbox",
+    "title": "SampleTitle",
+    "description": "A fitting description, worthy of a file's attention.",
+    "swiftversion": "swift-3.0-RELEASE-ubuntu14.04",
+    "giturl": "https://github.com/apple/example-package-dealer.git",
+    "gittag": "1.0.0"
+}, {
+    "type": "sandbox",
+    "title": "SampleTitle",
+    "description": "A fitting description, worthy of a file's attention.",
+    "swiftversion": "swift-3.0-RELEASE-ubuntu14.04",
+    "giturl": "https://github.com/apple/example-package-deckofplayingcards.git",
+    "gittag": "1.0.0"
+}, {
+    "type": "sandbox",
+    "title": "SampleTitle",
+    "description": "A fitting description, worthy of a file's attention.",
+    "swiftversion": "swift-3.0-RELEASE-ubuntu14.04",
+    "giturl": "https://github.com/apple/example-package-deckofplayingcards.git",
+    "gittag": "1.0.0"
+}]
